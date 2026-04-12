@@ -6,7 +6,7 @@
 
 *Fresh grad 2026 — BS Computer Science · Philippines*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tycoongranado.vercel.app-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://tycoongranado.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tycoongranado.vercel.app-2563eb?style=flat-square&logo=vercel&logoColor=white)]([https://tycoongranado.vercel.app](https://tycooncv.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tycoon--granado-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tycoon-granado/)
 [![GitHub](https://img.shields.io/badge/GitHub-tycoonmigs-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/tycoonmigs)
 [![Email](https://img.shields.io/badge/Email-tycoongranado@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tycoongranado@gmail.com)
@@ -79,17 +79,6 @@ I build responsive websites and ship campaign-ready visuals — useful when you 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Tycoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tycoonmigs&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=0c1427&bg_color=f5f8ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tycoonmigs&layout=compact&hide_border=true&title_color=2563eb&text_color=0c1427&bg_color=f5f8ff)
-
-</div>
-
----
 
 ## Let's connect
 
